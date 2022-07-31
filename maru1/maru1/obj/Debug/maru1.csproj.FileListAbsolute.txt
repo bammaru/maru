@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\GitHub\maru\maru1\maru1\bin\Debug\maru1.exe.config
+C:\Users\admin\Documents\GitHub\maru\maru1\maru1\bin\Debug\maru1.exe
+C:\Users\admin\Documents\GitHub\maru\maru1\maru1\bin\Debug\maru1.pdb
+C:\Users\admin\Documents\GitHub\maru\maru1\maru1\obj\Debug\maru1.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GitHub\maru\maru1\maru1\obj\Debug\maru1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\maru\maru1\maru1\obj\Debug\maru1.exe
+C:\Users\admin\Documents\GitHub\maru\maru1\maru1\obj\Debug\maru1.pdb

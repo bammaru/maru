@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\GitHub\maru\qksthrrpdla\qksthrrpdla\bin\Debug\netcoreapp3.1\qksthrrpdla.exe
+C:\Users\admin\Documents\GitHub\maru\qksthrrpdla\qksthrrpdla\bin\Debug\netcoreapp3.1\qksthrrpdla.deps.json
+C:\Users\admin\Documents\GitHub\maru\qksthrrpdla\qksthrrpdla\bin\Debug\netcoreapp3.1\qksthrrpdla.runtimeconfig.json
+C:\Users\admin\Documents\GitHub\maru\qksthrrpdla\qksthrrpdla\bin\Debug\netcoreapp3.1\qksthrrpdla.runtimeconfig.dev.json
+C:\Users\admin\Documents\GitHub\maru\qksthrrpdla\qksthrrpdla\bin\Debug\netcoreapp3.1\qksthrrpdla.dll
+C:\Users\admin\Documents\GitHub\maru\qksthrrpdla\qksthrrpdla\bin\Debug\netcoreapp3.1\qksthrrpdla.pdb
+C:\Users\admin\Documents\GitHub\maru\qksthrrpdla\qksthrrpdla\obj\Debug\netcoreapp3.1\qksthrrpdla.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GitHub\maru\qksthrrpdla\qksthrrpdla\obj\Debug\netcoreapp3.1\qksthrrpdla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\GitHub\maru\qksthrrpdla\qksthrrpdla\obj\Debug\netcoreapp3.1\qksthrrpdla.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\GitHub\maru\qksthrrpdla\qksthrrpdla\obj\Debug\netcoreapp3.1\qksthrrpdla.AssemblyInfo.cs
+C:\Users\admin\Documents\GitHub\maru\qksthrrpdla\qksthrrpdla\obj\Debug\netcoreapp3.1\qksthrrpdla.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\maru\qksthrrpdla\qksthrrpdla\obj\Debug\netcoreapp3.1\qksthrrpdla.dll
+C:\Users\admin\Documents\GitHub\maru\qksthrrpdla\qksthrrpdla\obj\Debug\netcoreapp3.1\qksthrrpdla.pdb
+C:\Users\admin\Documents\GitHub\maru\qksthrrpdla\qksthrrpdla\obj\Debug\netcoreapp3.1\qksthrrpdla.genruntimeconfig.cache

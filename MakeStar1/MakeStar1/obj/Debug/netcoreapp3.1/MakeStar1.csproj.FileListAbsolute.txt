@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\GitHub\maru\MakeStar1\MakeStar1\bin\Debug\netcoreapp3.1\MakeStar1.exe
+C:\Users\admin\Documents\GitHub\maru\MakeStar1\MakeStar1\bin\Debug\netcoreapp3.1\MakeStar1.deps.json
+C:\Users\admin\Documents\GitHub\maru\MakeStar1\MakeStar1\bin\Debug\netcoreapp3.1\MakeStar1.runtimeconfig.json
+C:\Users\admin\Documents\GitHub\maru\MakeStar1\MakeStar1\bin\Debug\netcoreapp3.1\MakeStar1.runtimeconfig.dev.json
+C:\Users\admin\Documents\GitHub\maru\MakeStar1\MakeStar1\bin\Debug\netcoreapp3.1\MakeStar1.dll
+C:\Users\admin\Documents\GitHub\maru\MakeStar1\MakeStar1\bin\Debug\netcoreapp3.1\MakeStar1.pdb
+C:\Users\admin\Documents\GitHub\maru\MakeStar1\MakeStar1\obj\Debug\netcoreapp3.1\MakeStar1.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GitHub\maru\MakeStar1\MakeStar1\obj\Debug\netcoreapp3.1\MakeStar1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\GitHub\maru\MakeStar1\MakeStar1\obj\Debug\netcoreapp3.1\MakeStar1.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\GitHub\maru\MakeStar1\MakeStar1\obj\Debug\netcoreapp3.1\MakeStar1.AssemblyInfo.cs
+C:\Users\admin\Documents\GitHub\maru\MakeStar1\MakeStar1\obj\Debug\netcoreapp3.1\MakeStar1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\maru\MakeStar1\MakeStar1\obj\Debug\netcoreapp3.1\MakeStar1.dll
+C:\Users\admin\Documents\GitHub\maru\MakeStar1\MakeStar1\obj\Debug\netcoreapp3.1\MakeStar1.pdb
+C:\Users\admin\Documents\GitHub\maru\MakeStar1\MakeStar1\obj\Debug\netcoreapp3.1\MakeStar1.genruntimeconfig.cache

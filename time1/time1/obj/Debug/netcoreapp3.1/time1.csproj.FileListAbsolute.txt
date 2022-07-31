@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\GitHub\maru\time1\time1\obj\Debug\netcoreapp3.1\time1.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GitHub\maru\time1\time1\obj\Debug\netcoreapp3.1\time1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\GitHub\maru\time1\time1\obj\Debug\netcoreapp3.1\time1.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\GitHub\maru\time1\time1\obj\Debug\netcoreapp3.1\time1.AssemblyInfo.cs
+C:\Users\admin\Documents\GitHub\maru\time1\time1\obj\Debug\netcoreapp3.1\time1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\maru\time1\time1\bin\Debug\netcoreapp3.1\time1.exe
+C:\Users\admin\Documents\GitHub\maru\time1\time1\bin\Debug\netcoreapp3.1\time1.deps.json
+C:\Users\admin\Documents\GitHub\maru\time1\time1\bin\Debug\netcoreapp3.1\time1.runtimeconfig.json
+C:\Users\admin\Documents\GitHub\maru\time1\time1\bin\Debug\netcoreapp3.1\time1.runtimeconfig.dev.json
+C:\Users\admin\Documents\GitHub\maru\time1\time1\bin\Debug\netcoreapp3.1\time1.dll
+C:\Users\admin\Documents\GitHub\maru\time1\time1\bin\Debug\netcoreapp3.1\time1.pdb
+C:\Users\admin\Documents\GitHub\maru\time1\time1\obj\Debug\netcoreapp3.1\time1.dll
+C:\Users\admin\Documents\GitHub\maru\time1\time1\obj\Debug\netcoreapp3.1\time1.pdb
+C:\Users\admin\Documents\GitHub\maru\time1\time1\obj\Debug\netcoreapp3.1\time1.genruntimeconfig.cache
